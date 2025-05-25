@@ -20,13 +20,12 @@
 - **Backend:** Python, Django, Django REST Framework  
 - **Database:** SQL Server, SQLite  
 - **Tools:** Git, GitHub, VS Code
-- **Learning:** JavaScript, Bootstrap, React
 
 ---
 
 ## 🚧 Currently Learning
 
-- JavaScript (ES6+)  
+- JavaScript 
 - React.js  
 - Bootstrap  
 - REST APIs  
