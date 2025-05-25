@@ -27,12 +27,15 @@
 <!--
 **r-absnezhad/r-absnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-📌 پروژه‌های من:
+---
+### 📌 پروژه‌های من:
 🔗 Preregistration-site (سایت پیش‌ثبت‌نام دانشگاه)
 پروژه پایان‌نامه کارشناسی: طراحی با Django و React + آمارگیری از انتخاب دروس
-📈 آمار گیت‌هاب من:
+---
+### 📈 آمار گیت‌هاب من:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r-absnezhad&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-absnezhad&layout=compact&theme=radical" /> </div>
-🤝 ارتباط با من:
+---
+### 🤝 ارتباط با من:
 📧 ایمیل: absnezhad.r@gmail.com
 
 💼 لینکدین: linkedin.com/in/reihane-abbasnezhadsarab-289064240
