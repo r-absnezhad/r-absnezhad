@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Reyhaneh 👩🏻‍💻</h1>
+<h1 align="center">Hi there, I'm Reihane 👩🏻‍💻</h1>
 <p align="center">
   💻 Computer Engineering Student | 💡 Passionate Web Developer | 🎯 Always Learning
 </p>
