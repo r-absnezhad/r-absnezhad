@@ -24,6 +24,16 @@
 
 ---
 
+## 🚧 Currently Learning
+
+- JavaScript (ES6+)  
+- React.js  
+- Bootstrap  
+- REST APIs  
+- Docker (basic concepts)
+
+---
+
 ## 📌 Featured Project
 
 ### [📘 Preregistration-site](https://github.com/r-absnezhad/Preregistration-site)  
