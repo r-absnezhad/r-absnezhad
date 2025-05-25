@@ -29,7 +29,6 @@
 - React.js  
 - Bootstrap  
 - REST APIs  
-- Docker (basic concepts)
 
 ---
 
