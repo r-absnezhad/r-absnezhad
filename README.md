@@ -45,7 +45,7 @@
 
 ## 📫 Contact Me
 
-- Email: [absnezhad.r@gmail.com](mailto:reihaneabbasnezhadsarab@gmail.com)  
+- Email: [reihaneabbasnezhadsarab@gmail.com](mailto:reihaneabbasnezhadsarab@gmail.com)  
 - LinkedIn: [linkedin.com/in/reihane-abbasnezhadsarab-289064240](https://www.linkedin.com/in/reihane-abbasnezhadsarab-289064240)
 
 ---
