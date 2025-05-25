@@ -9,18 +9,18 @@
 
 - 🎓 Bachelor's in Computer Engineering – Software Engineering
 - 🧠 Final project: University Pre-registration Website using Django + React
-- 🏅 First Place in National Quran Competition (Iran)
 - 📝 Conference paper: “Applications of Blockchain in IoT Security”
-- 👩‍🏫 Teaching experience: Social Studies teacher for 8th-grade students
+- 👩‍🏫 Teaching experience: Teacher for students
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Django, Django REST Framework  
 - **Database:** SQL Server, SQLite  
 - **Tools:** Git, GitHub, VS Code
+- **Learning:** React, Bootstrap  
 
 ---
 
