@@ -16,11 +16,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Backend:** Python, Django, Django REST Framework  
 - **Database:** SQL Server, SQLite  
 - **Tools:** Git, GitHub, VS Code
-- **Learning:** React, Bootstrap  
+- **Learning:** JavaScript, Bootstrap, React
 
 ---
 
