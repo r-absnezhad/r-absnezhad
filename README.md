@@ -10,7 +10,7 @@
 - 🎓 Bachelor's in Computer Engineering – Software Engineering
 - 🧠 Final project: University Pre-registration Website using Django + React
 - 📝 Conference paper: “Applications of Blockchain in IoT Security”
-- 👩‍🏫 Teaching experience: Teacher for students
+- 👩‍🏫 Teaching experience: Technical school and high school teacher
 
 ---
 
