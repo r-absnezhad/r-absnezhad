@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r-absnezhad&show_icons=true&theme=radical" />
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-absnezhad&layout=compact&theme=radical" />
 </p>
 
----
+--- -->
 
 ## 📫 Contact Me
 
